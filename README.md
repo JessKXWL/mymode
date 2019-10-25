@@ -9,8 +9,6 @@
 
 ## 背景
 
-WebHook消息可能转发不成功, 需要记录消息, 当web_hook服务器好的时候进行推送
-
 ## Install
 
 ## Usage
